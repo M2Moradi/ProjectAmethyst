@@ -1,0 +1,44 @@
+...developing countries, where the need for better infrastructure and water governance is highest. [The United Nations WWDR] {http://www.unesco.org/new/en/natural-sciences/environment/water/wwap/wwdr/}
+On average, every US dollar invested in water and sanitation provides an economic return of eight US dollars. [UNDP] {http://water.org/water-crisis/water-facts/economics/}
+{
+	Foreign Policy: 
+	...growing impact of climate change, ... could heighten tensions among nations and even spark new wars.
+	Many governments will face challenges to meet even the basic needs of their people as they confront demographic change, resource constraints, effects of climate change, and risks of global infectious disease outbreaks.
+	Scarcity now poses a global security threat that U.S. intelligence agencies take as seriously as the proliferation of weapons of mass destruction, terrorism, and cyberattacks on critical infrastructure.
+	...shortages could "exacerbate" regional conflicts that are already raging around the world...
+	[http://foreignpolicy.com/2014/09/18/water-wars/]
+}
+{
+	BBC: 
+	The Middle East has only 1% of the world's fresh water shared between 5% of the world's population.
+	... many countries [in the Middle East] have already developed all their possible water resources.
+	By 2025, it is predicted that the countries of the Arabian peninsula will be using more water than double the amount of water naturally available to them.
+	(non-quote) Chair of the National Water Research Unit in Egypt: Living without an adequate level of access to water created a "non-human environment" which led to frustration, and from there terrorism.
+	[http://news.bbc.co.uk/2/hi/science/nature/2859937.stm]
+}
+{
+	The Guardian: 
+	(non-quote) Rise in water price led to civil unrest in Bolivia's third largest city.
+	(non-quote) By 2025, almost two-thirds of the global population will live in countries where water will be a scarce commodity. And that could lead to conflict, as United Nations secretary-general Ban Ki-moon warned...
+	...China planning to syphon off Tibet's water supply to make up for shortages in the parched north...
+	...the Israel-Palestine conflict is at least partly about securing supplies from the River Jordan...
+	...water is a major feature of the strife in Sudan that has left Darfur devastated.
+	When it comes to this most basic of commodities, the stakes could hardly be higher.
+	[http://www.theguardian.com/business/2007/dec/09/water.climatechange]
+}
+
+Links: 
+
+{
+	Water Use Calculator
+	Calculate how much water you use, and how much you waste. 
+	[http://www.waterbudgets.com/ConserVision/CUWCC/DataInput.htm]
+}
+{
+	"Give Water a Hand" Action Guides
+	[http://erc.cals.wisc.edu/gwah/download/]
+}
+{
+	Water Conflicts Chronology
+	[http://worldwater.org/water-conflict/]
+}
