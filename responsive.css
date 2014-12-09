@@ -1,0 +1,35 @@
+.responsive-grid .ui-block-a,
+.responsive-grid .ui-block-b {
+	width: 100%;
+	float: none;
+	border-width: 0em;
+	text-align: center;
+}
+
+.custom-banner-small, .custom-banner-big, .serir-lake-bk {
+	background-image: url('./img/banner-small.png');
+	background-size: 100% 100%;
+	height: 10em;
+	padding: 0em;
+}
+
+.serir-lake-bk {
+	background-image: url('./img/serir-lake-chad.jpg');
+}
+
+@media all and (min-width: 60em) {
+	.responsive-grid .ui-grid-a .ui-block-a, 
+	.responsive-grid .ui-grid-a .ui-block-b {
+		width: 50%;
+		float: left;
+	}
+	
+	.responsive-grid .ui-grid-solo .ui-block-a {
+		width: 100%;
+		float: left;
+	}
+	
+	.custom-banner-big {
+		background-image: url('./img/banner-big.png');
+	}
+}
